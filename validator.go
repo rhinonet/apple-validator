@@ -1,4 +1,4 @@
-package apple-validator
+package apple_validator
 
 type Validator struct {
 	clientID     string //App ID

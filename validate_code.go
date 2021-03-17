@@ -1,4 +1,4 @@
-package apple-validator
+package apple_validator
 
 import (
 	"encoding/json"
